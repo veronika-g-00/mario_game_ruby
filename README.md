@@ -2,9 +2,9 @@
 This is a simple 2D platformer inspired by the classic Super Mario series, built using Ruby. 
 
 To run the game:
-
+```
 ruby mario_game.rb
-
+```
 
 Examples:
 
